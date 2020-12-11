@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+marquee{
+    font-family: 'Nova Flat', cursive;
+    font-size: 27;
+}
+img{
+    width: 20%;
+}
