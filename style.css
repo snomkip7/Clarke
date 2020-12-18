@@ -1,18 +1,22 @@
-body{
+body {
     text-align: center;
     background-color: aquamarine;
 }
-marquee{
+
+marquee {
     font-family: 'Nova Flat', cursive;
     font-size: 27;
 }
-img{
+
+img {
     width: 20%;
 }
+
 p {
     font-family: 'Rubik', sans-serif;
 }
-.movie_head{
+
+.movie_head {
     font-size: 20px;
     padding: 6px 22px;
     border-radius: 10px;
@@ -20,9 +24,32 @@ p {
     width: 100%;
     display: inline-block;
 }
-.movie_head i{
+
+.movie_head i {
     float: right;
 }
-.movie_text span{
+
+.movie_text span {
     color: #ff7700;
+}
+
+.enviorment li {
+    margin-top: 13px;
+}
+
+.enviorment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.enviorment_li img {
+    border-radius: 25px;
+}
+
+.enviorment_li p {
+    margin-top: 10px;
+}
+
+h5 {
+    color: blue;
 }
